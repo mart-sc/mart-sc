@@ -16,6 +16,8 @@
   <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img width="5%" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" /">
+  
 </div> 
   
 ## Where you can find me!  
