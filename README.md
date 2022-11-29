@@ -9,7 +9,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=mart-sc&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
 </div>
 
-## Technologies that i studied!
+## Technologies that i've studied!
 <div> <br>
   <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />   
   <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
