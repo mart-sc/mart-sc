@@ -7,11 +7,13 @@
 ## Technologies
 <div> <br>
   <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />   
-  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img width="5%" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" /">
   <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img width="5%" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" /">
+  <img width="5%" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" />
+ 
   
 </div> 
   
