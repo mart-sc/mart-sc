@@ -4,7 +4,7 @@
 - Today, i'm taking an extension course at Unoesc!
 
 
-## Technologies that i've studied!
+## Technologies
 <div> <br>
   <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />   
   <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
