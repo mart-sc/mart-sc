@@ -4,6 +4,9 @@
 - 🌱 Currently learning Vue, React & Angular
 - 💯 Today, i'm taking an extension course at Unoesc!
 
+## Stats
+[![Mart's GitHub stats](https://github-readme-stats.vercel.app/api?username=mart-sc&show_icons=true&theme=transparent)](https://github.com/mart-sc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mart-sc&layout=compact)](https://github.com/mart-sc/github-readme-stats)
 
 ## Technologies
 <div> <br>
