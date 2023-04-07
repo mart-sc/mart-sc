@@ -3,7 +3,7 @@
 - 🚀 Beginner in programming
 - 👀 I’m interested in System Analysis and Development!
 - 🌱 Currently learning Vue, React & Angular
-- Today, i'm taking an extension course at Unoesc!
+- 💯 Today, i'm taking an extension course at Unoesc!
 
 
 ## Stats
