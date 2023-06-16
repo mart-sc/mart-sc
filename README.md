@@ -1,6 +1,6 @@
 ## Introduction
 - 👋 Hello! My name is **Alex Martini**, i'm nineteen years old.
-- 🚀 I want to work as **web developer**.
+- 🚀 I wish work as **web developer**.
 - 📚 Actually studying **System Analysis and Development**!
 
 
