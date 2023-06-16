@@ -1,9 +1,7 @@
 ## Introduction
-- 👋 Hello! I am **Alex Martini**, i'm 19 years old!
-- 🚀 Beginner in programming
-- 👀 I’m interested in System Analysis and Development!
-- 🌱 Currently learning Vue, React & Angular
-- 💯 Today, i'm taking an extension course at Unoesc!
+- 👋 Hello! My name is **Alex Martini**, i'm nineteen years old.
+- 🚀 I want to work as **web developer**.
+- 📚 Actually studying **System Analysis and Development**!
 
 
 ## Stats
