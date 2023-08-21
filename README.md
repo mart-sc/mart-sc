@@ -3,16 +3,9 @@
 - 🚀 I wish work as **web developer**.
 - 📚 Actually studying **System Analysis and Development**!
 
-
-## Stats
-[![Mart's GitHub stats](https://github-readme-stats.vercel.app/api?username=mart-sc&show_icons=true&theme=transparent)](https://github.com/mart-sc/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mart-sc&layout=compact)](https://github.com/mart-sc/github-readme-stats)
-
-
 ## Technologies
 These are some of the technologies i used since i started programming<br><br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,spring,bootstrap,jquery,nodejs,react,angular,vue&theme=light)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,bootstrap,nodejs&theme=light)](https://skillicons.dev)
 
 ## Where you can find me!  
 <div>
