@@ -5,7 +5,7 @@
 
 ## Technologies
 These are some of the technologies i used since i started programming<br><br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,bootstrap,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,php,bootstrap,nodejs&theme=light)](https://skillicons.dev)
 
 ## Where you can find me!  
 <div>
